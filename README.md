@@ -7,8 +7,8 @@
 
 # Arayüz
 
-- ![1](https://github.com/rmznsrii/Multiples-of-Number/assets/67555283/fc6596c1-8856-4387-aaf4-4cb187b96d19)
-- ![2](https://github.com/rmznsrii/Multiples-of-Number/assets/67555283/925ded0d-3bd0-4623-8ece-02ea8246d005)
+![1](https://github.com/rmznsrii/Multiples-of-Number/assets/67555283/fc6596c1-8856-4387-aaf4-4cb187b96d19)
+![2](https://github.com/rmznsrii/Multiples-of-Number/assets/67555283/925ded0d-3bd0-4623-8ece-02ea8246d005)
 ![3](https://github.com/rmznsrii/Multiples-of-Number/assets/67555283/dc4c3742-4438-4798-a093-79b6193b2974)
 ![4](https://github.com/rmznsrii/Multiples-of-Number/assets/67555283/b8c38cc2-8814-4a3a-86dd-179f89818f4e)
 ![5](https://github.com/rmznsrii/Multiples-of-Number/assets/67555283/dc2ae44e-4626-4741-8ab0-8a38eba5814b)
