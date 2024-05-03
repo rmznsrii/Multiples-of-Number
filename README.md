@@ -1,6 +1,6 @@
 # Özellikler
 
-- Textboxdan girilen iki sayı arasındaki katları comboboxdan alarak, bu sayılar arasındaki katları istenilen sırayla gösterir.
+- Textboxlara girilen iki sayı arasındaki katları comboboxdan alarak, bu sayılar arasındaki katları istenilen sırayla gösterir.
 - Textboxların boş olma durumu, whitespace durumu, sadece sayı girme özelliği tanımlanmış ve comboboxın selectedindex değeri "-1" olması durumunda uyarı vermesi tanımlanmıştır. Böylece kullanıcı kaynaklı hataların önüne geçilmiştir.
 - Girilen ilk sayının küçük veya büyük olma durumuna göre richtextboxa aktarılan verilerin sıralaması farklılık gösterir. Girilen sayılar eşit değerde ise uyarı verir. Bu durumlar if bloklarıyla ayrılmış olup döngüdeki değerin arttırılması/azaltılması durumuyla sağlanır.
 - Richtextboxda gösterilen verilerin renginde değişiklik için radiobuttonlar eklenmiştir.
